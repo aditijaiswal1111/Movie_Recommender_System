@@ -31,9 +31,3 @@ This project involves analyzing movie data obtained from the TMDB (The Movie Dat
 ## Conclusion
 This project provides insights into movie data, including genre trends, popular keywords, and cast members. Further analysis could involve sentiment analysis of movie overviews or predicting movie success based on various features.
 
-## Contributors
-- [Your Name]
-- [Your Email]
-
-Feel free to contribute or raise issues if you find any problems or improvements!
-
